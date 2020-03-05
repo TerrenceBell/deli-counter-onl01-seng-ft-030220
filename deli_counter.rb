@@ -1,3 +1,4 @@
 def line(place)
   if place.length < 0
-    return 
+    return "The line is currently empty."
+  end
