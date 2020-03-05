@@ -6,7 +6,7 @@ def line(katz_deli)
     array.push("#{counter}. #{name}.")
     counter += 1
     end
-    puts "The line is currently: #{array}"
+    puts "The line is currently: #{array}."
     elsif 
     puts "The line is currently empty."
 end  
